@@ -1,0 +1,9 @@
+.footer{
+    position: block;
+    bottom: 0;
+    height: 100px;
+}
+.footer_info{
+    margin-bottom: 20px !important;
+    padding: 25px;
+}

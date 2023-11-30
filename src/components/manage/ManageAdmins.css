@@ -1,0 +1,12 @@
+.admin-details{
+    width: 90%;
+    height: 20%;
+    border-radius: 20px;
+    background-color: rgba(118, 223, 237, 0.489);
+    border: 2px solid rgb(0, 213, 255);
+
+}
+.admins{
+    width: 100%;
+    margin-top: 20px;
+}

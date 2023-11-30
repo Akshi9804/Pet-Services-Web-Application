@@ -1,0 +1,7 @@
+.admin_btn:hover{
+    background-color: white;
+    color: black;
+}
+.admin_btn{
+    height: 60px;
+}
